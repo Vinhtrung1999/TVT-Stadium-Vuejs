@@ -5,6 +5,9 @@
 
 Xem chi tiết: https://github.com/Vinhtrung1999/project-persional
 
+## Deploy
+Link deploy: 
+
 ## Cài đặt project
 
 ```sh

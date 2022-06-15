@@ -6,7 +6,7 @@
 Xem chi tiết: https://github.com/Vinhtrung1999/project-persional
 
 ## Deploy
-Link deploy: 
+Link deploy: https://tvt-stadium-c2.herokuapp.com/
 
 ## Cài đặt project
 
